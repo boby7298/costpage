@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: auto;
+    text-align: left;
+    position: absolute;
+    top: 130px;
+    left: 353px;
+    border-radius: 8px;
+    /* background-color: blue; */
+    right: 458px;
+    border-radius: 8px;
+    /* background-color: blue; */
+}
+
+.GALLERY IMG {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    /* background-color: blue; */
+    width: 275PX;
+    height: 445px;
+    /* margin-right: 50px;
+    padding-right: 25px; */
+}
+
+.second {
+    padding: 20px 43px;
+}
+
+.fume p {
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 32px;
+    left: 310px;
+}
+
+.premium p {
+    font-size: 38px;
+    font-weight: 994;
+    position: absolute;
+    top: 65px;
+    left: 310px;
+}
+
+.tolar p {
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 223px;
+    left: 309px;
+    width: 221px;
+}
+
+.count p {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 320px;
+    left: 307px;
+    color: rgb(6, 138, 72);
+
+
+}
+
+.number p {
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    position: absolute;
+    top: 334px;
+    left: 452px;
+}
+
+.button {
+    color: rgb(6, 138, 72);
+}
+
+.search {
+    border-radius: 9px;
+    color: white;
+    background: rgb(6, 138, 72);
+    ;
+    font-size: 11px;
+    font-weight: 750;
+    position: absolute;
+    top: 384px;
+    left: 308px;
+    width: 196px;
+    height: 37px;
+
+}
